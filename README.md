@@ -5,7 +5,7 @@
 Install with the command:
 
 ```
-$ npm install --save devcamp-js-footer
+$ npm install --save j_hendy-js-footer
 ```
 
 Add to your Javascript Project with the following code:
