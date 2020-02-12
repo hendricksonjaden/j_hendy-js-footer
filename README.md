@@ -1,4 +1,7 @@
-### Devcamp JS Footer
+j_hendy-js-builder
+
+
+<!-- ### Devcamp JS Footer
 
 > This should be used in the following manner
 
@@ -14,4 +17,4 @@ Add to your Javascript Project with the following code:
 import { footer } from 'yourName-js-footer';
 
 footer('Some Name');
-```
+``` -->
